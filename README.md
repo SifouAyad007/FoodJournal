@@ -17,10 +17,16 @@ Features
 
 Screenshots
 
-(Add your app screenshots here)
+![image](https://github.com/user-attachments/assets/f6711dc1-14a7-4fdc-a65d-9d2fd62556e4)
+
+![image](https://github.com/user-attachments/assets/d2c424a7-2fe3-41c1-90ff-a8cc8de71619)
+
+![image](https://github.com/user-attachments/assets/c51229c2-5998-405c-bcb0-701783333b04)
+
+
 Installation
 
-    Clone the repository:
+    Clone the repository: 
 
 bash
 git clone https://github.com/yourusername/food-journal-app.git
